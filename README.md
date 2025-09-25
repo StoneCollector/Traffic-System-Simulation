@@ -42,12 +42,13 @@ It was automated since java could *apparently* fetch the host node's IP address 
 The server identifies its connected nodes. It will not start unless the two traffic signal nodes are connected to it. You can test this locally too. Just put the host IP as localhost and run the other bat files on the same PC.
 ## Authors
 
-- [@Yash Kasle](https://www.github.com/BuildnByte)
-- @Rushikesh Mahajan
-- @Anuj Taware
+- [@ Yash Kasle](https://www.github.com/BuildnByte)
+- @ Rushikesh Mahajan
+- @ Anuj Taware
 and of course, myself [@ Harshal Bangar](https://github.com/StoneCollector)
 
 And our mentor, 
 - Professor Amit Nerurkar 
 ## Just a note
 Everything stated above is solely formulated by me and I believe 'formulated' is not the most appropriate word to describe this. If anything doesn't sit right with you - just know, the people mentioned above, excluding me, have no influence on the content of this readme.
+
