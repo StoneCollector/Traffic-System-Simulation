@@ -6,6 +6,29 @@ This repository is a collection of tasks performed in Distributed Systems lab co
 
 
 
+## Tasks Implemented
+
+These are the tasks we have Implemented:
+
+- Simple Signal functioning at a 4 way junction (2 Main Roads)
+- VIP Prioritization
+- Mutual Exclusion on signal requests 
+- Deadlock handling
+- Load Balancing
+- Consistency across databases and end devices
+- Hack Control (The RTO terminals)
+- GUI based visualization
+- Logging 
+
+
+## About the Code
+
+The code is written in Java
+It is mandatory to update Java to latest version as older versions cause module import errors. 
+For database, we have used sqlite.
+For GUI, we have used JavaFX. 
+Everything other than your Java update has been included in this repository. Please update your JRE before attempting to test this project. 
+If you have a non inclusive installation (which didn't install as a bundle component of an IDE) then search for "Check for Updates" with the Java icon. In case you have an IDE bundle component of Java, it is recommended to install JRE separately.
 ## Installation
 
 There is no installation, *hehe*
@@ -42,15 +65,12 @@ It was automated since java could *apparently* fetch the host node's IP address 
 The server identifies its connected nodes. It will not start unless the two traffic signal nodes are connected to it. You can test this locally too. Just put the host IP as localhost and run the other bat files on the same PC.
 ## Authors
 
-- [@ Yash Kasle](https://www.github.com/BuildnByte)
-- @ Rushikesh Mahajan
-- @ Anuj Taware
-
+- [@Yash Kasle](https://www.github.com/BuildnByte)
+- @Rushikesh Mahajan
+- @Anuj Taware
 and of course, myself [@ Harshal Bangar](https://github.com/StoneCollector)
 
 And our mentor, 
 - Professor Amit Nerurkar 
 ## Just a note
 Everything stated above is solely formulated by me and I believe 'formulated' is not the most appropriate word to describe this. If anything doesn't sit right with you - just know, the people mentioned above, excluding me, have no influence on the content of this readme.
-
-
