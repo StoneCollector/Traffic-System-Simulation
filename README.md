@@ -75,3 +75,4 @@ And our mentor,
 ## Just a note
 Everything stated above is solely formulated by me and I believe 'formulated' is not the most appropriate word to describe this. If anything doesn't sit right with you - just know, the people mentioned above, excluding me, have no influence on the content of this readme.
 
+Oh, and, I used [readme.so](https://readme.so/) for creating this readme. Check it out!
